@@ -12,4 +12,4 @@ Make sure to adjust the highlight color and size to your preference by modifying
 #
 ### CHATGPT
 
-![ChatGPT](https://github.com/sourceduty/Highlighted_Map/assets/123030236/f9b90835-aa37-47d8-94ed-536f9c6ac810)
+![ChatGPT](https://github.com/sourceduty/Highlighted_Map/assets/123030236/d6ea87a6-808c-4aad-8264-9e895adf28b8)
